@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{gZkK:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),c=n.n(a),r=n("9kay"),o=n("soUV"),s=n("nrjT");t.default=function(){var e=Object(r.b)().t;return c.a.createElement(o.a,{title:"Туршлага"},c.a.createElement(s.a,null,c.a.createElement("h5",{className:"text-center"},e("coming soon"))))}}}]);
+//# sourceMappingURL=component---src-pages-projects-tsx-9ca1b730e319bd59ac83.js.map
